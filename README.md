@@ -82,13 +82,9 @@ E --> F[TTS Reader]
 ResNet50 is used as a residual-learning baseline.  
 It helps compare whether deeper residual CNN features improve road-sign classification and generalization.
 
-```mermaid
-graph LR
-A[Road Scene Input] --> B[Clean Labels + Split Data]
-B --> C[ResNet50 Residual Blocks]
-C --> D[Sign Class Prediction]
-D --> E[Audio Feedback]
-```
+<p align="center">
+  <img src="assets/RES.jpeg" alt="MobileNet notebook pipeline" width="850">
+</p>
 
 ---
 
@@ -111,7 +107,9 @@ This model is included to test whether a hybrid architecture can improve recogni
 <p align="center">
   <img src="assets/backend_data_flow%20(2).png" alt="Hybrid ConvNeXt and Transformer VQA backend pipeline" width="950">
 </p>
-
+<p align="center">
+  <img src="assets/TRans.jpeg" alt="Hybrid ConvNeXt and Transformer VQA backend pipeline" width="950">
+</p>
 
 ---
 
