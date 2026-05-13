@@ -56,7 +56,7 @@ EfficientNetB0 is used as a compact high-performance image backbone.
 The notebook loads the merged dataset, prioritizes road-sign labels, trains the model, saves the mappings, and connects the prediction result to the GUI and TTS flow.
 
 <p align="center">
-  <img src="assets/efficientnet_pipeline.jpeg" alt="EfficientNetB0 notebook pipeline" width="850">
+  <img src="assets/eff%20bg.jpeg" alt="EfficientNetB0 notebook pipeline" width="850">
 </p>
 
 
@@ -113,8 +113,9 @@ The Transformer + Hybrid ConvNeXt experiment combines stronger visual feature ex
 This model is included to test whether a hybrid architecture can improve recognition of signs, signals, and written road information.
 
 <p align="center">
-  <img src="assets/transformer_convnext_pipeline.png" alt="Hybrid ConvNeXt and Transformer VQA backend pipeline" width="950">
+  <img src="assets/backend_data_flow%20(2).png" alt="Hybrid ConvNeXt and Transformer VQA backend pipeline" width="950">
 </p>
+
 
 ---
 
