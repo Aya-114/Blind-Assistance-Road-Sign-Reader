@@ -1,4 +1,3 @@
-```markdown
 <!-- HEADER ANIMATION -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Blind%20Road%20Sign%20Reader&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -285,4 +284,4 @@ Developed by **Brain Not Found 404 Team** 🚀
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" />
 </p>
-```
+
